@@ -1,1 +1,1 @@
-# chatbot-NLU
+# Movie recommendations using cosine similarity
